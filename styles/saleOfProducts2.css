@@ -178,3 +178,11 @@ body {
     }
   }
 }
+
+#ButtonVolver {
+  margin: 1em;
+  color: #3a635f;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 600;
+}
